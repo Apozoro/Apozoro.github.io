@@ -1,0 +1,17 @@
+# Your site's title
+title: "Xuanrui Hu's Development Website"
+
+# If this is hosted under a repo like /shivani-dev or /my-site
+url: "https://apozoro.github.io"
+
+# Other basic settings
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections or sections (Optional, in case you use collections for the business pages)
+collections:
+  business:
+    output: true
