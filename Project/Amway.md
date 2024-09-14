@@ -1,14 +1,14 @@
 ---
 layout: default
-title: UI/UX Projects
+title: Amway Projects
 permalink: /ui-ux/
 ---
 
-# UI/UX Projects
+# Amway Projects
 
 Here’s a showcase of my UI/UX design work. Click on a project to learn more.
 
-- [Project 1](/projects/project1)
-- [Project 2](/projects/project2)
+- [Project 1](/projects/Amway)
+- [Project 2](/projects/Sunnypam)
 
 You can explore my design process, wireframes, prototypes, and final designs.
