@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Pet Business"
+title: "SunnyPams🌞"
 ---
 <section>
   <h2>Pet Business Overview</h2>
