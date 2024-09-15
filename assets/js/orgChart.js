@@ -1,6 +1,6 @@
 // Sample data for the organization structure
 const data = {
-    name: "Shivani",
+    name: "Xuanrui Hu (Mike)",
     children: [
         {
             name: "Partner 1",
@@ -72,13 +72,3 @@ node.append("text")
     .attr("dx", 0)
     .style("text-anchor", "middle")
     .text(d => d.data.name);
-
-// Function to update the chart with new data
-function updateChart(newData) {
-    // Reassign the new data to the root and update the chart
-    const newRoot = d3.hierarchy(newData);
-    treeLayout(newRoot);
-
-    // Update the nodes and links
-    // (You will need to implement this part to handle dynamic updates)
-}
