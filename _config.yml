@@ -1,24 +1,14 @@
-# Your site's title
-title: "Xuanrui Hu's Development Website"
-
-# If this is hosted under a repo like /shivani-dev or /my-site
-url: "https://apozoro.github.io"
-
-# Other basic settings
-theme: minima
+title: Xuanrui Hu's Website
+description: Personal website showcasing business and projects
+baseurl: "" # The subpath of your site, e.g., /blog
+url: "https://username.github.io" # Your site URL
 markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+theme: minima # Optional, if you're using a theme
 
-Here’s a showcase of my UI/UX design work. Click on a project to learn more.
+# Include directories for assets and projects
+include:
+  - assets
+  - projects
 
-- [Project 1](/Project/Amway)
-- [Project 2](/Project/Sunnypaw)
-You can explore my design process, wireframes, prototypes, and final designs.
-
-
-# Collections or sections (Optional, in case you use collections for the business pages)
-collections:
-  business:
-    output: true
+# Exclude files from being processed by Jekyll
+exclude: ["node_modules", "Gemfile", "Gemfile.lock"]
