@@ -73,3 +73,36 @@ blockquote:before {
 blockquote:after {
     content: close-quote;
 }
+
+/* Amway Page Specific Styles */
+#orgChart {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.node {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.node rect {
+    fill: #fff;
+    stroke: #ccc;
+    stroke-width: 2px;
+}
+
+.node text {
+    font-size: 12px;
+    fill: #333;
+}
+
+.link {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 2px;
+}
