@@ -5,10 +5,10 @@ url: "https://username.github.io" # Your site URL
 markdown: kramdown
 theme: minima # Optional, if you're using a theme
 
-# Include directories for assets and projects
+# Include directories for assets and Project
 include:
   - assets
-  - projects
+  - Project
 
 # Exclude files from being processed by Jekyll
 exclude: ["node_modules", "Gemfile", "Gemfile.lock"]
