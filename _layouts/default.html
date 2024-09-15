@@ -9,7 +9,15 @@
 </head>
 <body>
     <header>
-        <h1>{{ page.title }}</h1>
+        <h1>{{ site.title }}</h1> <!-- Using site.title to avoid repetition -->
+        <nav>
+            <ul>
+                <li><a href="{{ "/" | relative_url }}">Home</a></li>
+                <li><a href="{{ "/Project/amway/" | relative_url }}">Amway</a></li>
+                <li><a href="{{ "/Project/sunnypaws/" | relative_url }}">SunnyPaws</a></li>
+                <!-- Add more links to other pages as needed -->
+            </ul>
+        </nav>
     </header>
     <main>
         {{ content }}
