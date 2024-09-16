@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amway Business Structure
-permalink: /Project/amway/
+permalink: /Project/Amway/
 ---
 
 # My Amway Business Vision
