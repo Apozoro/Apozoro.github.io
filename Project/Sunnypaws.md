@@ -1,67 +1,42 @@
 ---
 layout: default
-title: SunnyPaws Pet Products 
+title: SunnyPaws
 permalink: /Project/SunnyPaws/
 ---
 
-# Welcome to SunnyPaws Pet Grooming
+# SunnyPaws/阳光爪爪
 
-At SunnyPaws, we believe every pet deserves to look and feel their best. Our professional grooming services are tailored to keep your furry friends healthy, happy, and looking adorable.
+![SunnyPaws Logo](/assets/images/sunnypaws_logo.png) <!-- Make sure to save the logo image in the correct path -->
 
-## Our Services
+At SunnyPaws, we aim to create a platform that brings warmth, cuteness, and healing to both pets and their owners. We focus on custom-made pet accessories that not only look adorable but also bring comfort and joy.
 
-### Basic Grooming
-- Bath & Brush
-- Nail Trimming
-- Ear Cleaning
-- Anal Gland Expression
+## Our Concept
 
-### Full Grooming
-- Haircut & Styling
-- Flea Treatment
-- Teeth Brushing
+SunnyPaws is built on the belief that pets, especially dogs and cats, bring an immense amount of love and comfort to our lives. Modern life comes with its stresses and anxieties, and our furry friends have become our source of healing. They are not just pets; they are family, friends, and companions.
 
-### Specialty Services
-- De-shedding Treatment
-- Aromatherapy Bath
-- Puppy’s First Groom
+Our mission is to create products that evoke feelings of warmth, cuteness, and healing. We aim to make people feel loved and connected through the imagery of dogs and cats, spreading sunshine and joy with every product.
 
-## Why Choose SunnyPaws?
+## Product Introduction
 
-- **Experienced Groomers:** Our team consists of certified groomers who love and understand pets.
-- **Gentle Care:** We use gentle handling techniques and top-quality products to ensure a stress-free grooming experience.
-- **Custom Packages:** We offer grooming packages tailored to your pet’s unique needs.
+### Custom Pet Accessories
+- **Collars**: Personalized pet collars made with high-quality materials.
+- **Keychains**: Cute and unique keychains featuring dog and cat designs.
+- **Necklaces**: Elegant pet-themed necklaces to keep your furry friend close to your heart.
+- **Leather Goods**: Handmade leather products including collars, leashes, and accessories.
 
-## Testimonials
+### Home Decor and More
+- **Cups**: Custom-designed mugs featuring pet-themed artwork.
+- **Flower Pots**: Unique flower pots with pet imagery to bring a smile to your face.
+- **Pillows and Cushions**: Soft, cuddly pillows with dog and cat designs for a cozy home.
 
-> "SunnyPaws is the best! My dog always comes back looking fabulous and happy." - Jane D.
+## Our Philosophy
 
-> "They take such good care of my cat during grooming sessions. Highly recommend!" - Mike R.
+SunnyPaws believes in the power of pets to heal and bring warmth to our lives. In today's fast-paced world, many people face stress, anxiety, and loneliness. Dogs and cats offer comfort, companionship, and unconditional love, often becoming a significant part of our emotional well-being.
 
-## Book an Appointment
+We want our products to remind people of the joy and comfort that pets bring. From personalized accessories to charming home decor, every item is designed to evoke a sense of warmth, sunshine, and love.
 
-Ready to pamper your pet? Contact us to book an appointment or to learn more about our services.
+## Join Us on Our Journey
 
-<form action="https://formspree.io/your-email" method="POST">
-  <label for="name">Your Name:</label><br>
-  <input type="text" id="name" name="name" required><br>
-  
-  <label for="email">Your Email:</label><br>
-  <input type="email" id="email" name="email" required><br>
-  
-  <label for="pet-details">Pet Details:</label><br>
-  <textarea id="pet-details" name="pet-details" rows="4" required></textarea><br>
-  
-  <label for="service">Choose a Service:</label><br>
-  <select id="service" name="service">
-    <option value="basic">Basic Grooming</option>
-    <option value="full">Full Grooming</option>
-    <option value="specialty">Specialty Services</option>
-  </select><br>
-  
-  <input type="submit" value="Book Now">
-</form>
+SunnyPaws is starting its journey in Melbourne, aiming to bring the love for pets to the forefront of our culture. Whether you are looking for custom accessories for your beloved pet or a gift that reflects the love you have for furry friends, SunnyPaws has something special for you.
 
----
-
-[Back to Home](/)
+Let's spread the sunshine and make the world a warmer place, one paw at a time.
