@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SunnyPaws Pet Products 
-permalink: /sunnypaws/
+permalink: /Project/SunnyPaws/
 ---
 
 # Welcome to SunnyPaws Pet Grooming
